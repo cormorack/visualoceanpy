@@ -1,3 +1,5 @@
+# DEPRECATED AND MOVED TO [YODAPY](https://github.com/cormorack/yodapy)
+
 [![Build Status](https://travis-ci.org/cormorack/visualoceanpy.svg?branch=master)](https://travis-ci.org/cormorack/visualoceanpy)
 
 # visualoceanpy
